@@ -1,16 +1,17 @@
-#Samuel Bieberich
+# Samuel Bieberich
 
 
 - Hi, I'm Samuel (Sam) Bieberich, welcome to my GitHub profile!
 - I am interested in Quantum Computing and High Performance Research Computing
 - I am currently working on tool design using C++ and Verilog
 
-##Contact: 
+## Contact: 
 - email: sambieberich@gmail.com
 - LinkedIn: https://www.linkedin.com/in/samuel-bieberich/
 
 ------------------------------------------------------------------------
-##Stats
+## Stats
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-bieberich&label=Profile%20views&color=0e75b6&style=flat" alt="sam-bieberich" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-bieberich" alt="sam-bieberich" /></a> </p>
