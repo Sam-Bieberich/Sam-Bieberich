@@ -3,7 +3,7 @@
 
 - Hi, I'm Samuel (Sam) Bieberich, welcome to my GitHub profile!
 - I am interested in Quantum Computing and High Performance Research Computing
-- I am currently working on tool design using C++ and Verilog
+- I am currently working on Quantum Machine Learning (QML) and High Performace Computing (HPC) workflows
 
 ## Contact: 
 - email: sambieberich@gmail.com
