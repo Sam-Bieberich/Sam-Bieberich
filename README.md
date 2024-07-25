@@ -2,7 +2,7 @@
 
 
 - Hi, I'm Samuel (Sam) Bieberich, welcome to my GitHub profile!
-- I am an Electrical Engineering Junior at Texas A&M University (Whoop!)
+- I am an Electrical Engineer at Texas A&M University (Whoop!)
 - I am interested in Quantum Computing and High Performance Research Computing
 - I am currently working on Quantum Machine Learning (QML) and High Performace Computing (HPC) workflows
 
