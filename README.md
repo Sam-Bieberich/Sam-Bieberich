@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Samuel (Sam) Bieberich, welcome to my GitHub profile!</h1>
+<h1>Hi I'm Samuel (Sam) Bieberich, welcome to my GitHub profile!</h1>
 <p>Electrical Engineer at Texas A&M University</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
