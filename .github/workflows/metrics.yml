@@ -35,4 +35,4 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+          commits_authoring: Sam-Bieberich
